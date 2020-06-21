@@ -1,0 +1,17 @@
+
+Wsquid:S1481"4Remove this unused "consumerService" local variable.(º±âÚıÿÿÿÿ8ÜéŒ“¬.
+isquid:S1854"FRemove this useless assignment to local variable "producerRepository".(Àì¯üÿÿÿÿ8©‘Š“¬.
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(´ŸËÊúÿÿÿÿ8±ı¢“¬.
+Tsquid:S1481"6Remove this unused "companyRepository" local variable.(ôºìÈ8ÈÈ«’¬.
+isquid:S1854"FRemove this useless assignment to local variable "consumerRepository".(½ßè²şÿÿÿÿ8±ı¢“¬.
+Zsquid:S1481"7Remove this unused "consumerRepository" local variable.(½ßè²şÿÿÿÿ8±ı¢“¬.
+fsquid:S1854"CRemove this useless assignment to local variable "consumerService".(º±âÚıÿÿÿÿ8ÜéŒ“¬.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘øÏúÿÿÿÿ8–“¢“¬.
+hsquid:UselessImportCheck"8Remove this unused import 'org.company.domain.Consumer'.(ÙòğÆûÿÿÿÿ8¼‹“¬.
+csquid:S1854"ERemove this useless assignment to local variable "companyRepository".(ôºìÈ8úÆ¤’¬.
+Wsquid:S1481"4Remove this unused "producerService" local variable.(¶åŒ¡ûÿÿÿÿ8ÜéŒ“¬.
+Zsquid:S1481"7Remove this unused "producerRepository" local variable.(Àì¯üÿÿÿÿ8©‘Š“¬.
+fsquid:S1854"CRemove this useless assignment to local variable "producerService".(¶åŒ¡ûÿÿÿÿ8ÜéŒ“¬.
+csquid:UselessImportCheck"8Remove this unused import 'org.company.domain.Producer'.(ÆñÀš8±ı¢“¬.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8±ı¢“¬.

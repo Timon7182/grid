@@ -1,0 +1,5 @@
+
+|squid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "c".(ÜœÂüÿÿÿÿ8û©»æ¬.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ı…Òİÿÿÿÿÿ8â—«æ¬.
+qsquid:UselessImportCheck"ARemove this unused import 'org.company.services.ConsumerService'.(ğ¡Íœıÿÿÿÿ8åÌºæ¬.
+]squid:UselessImportCheck"-Remove this unused import 'javax.ws.rs.Path'.(Š§¢éùÿÿÿÿ8ìÇ©æ¬.

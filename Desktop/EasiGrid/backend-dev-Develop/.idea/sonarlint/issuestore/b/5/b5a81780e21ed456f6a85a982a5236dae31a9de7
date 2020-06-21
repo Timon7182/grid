@@ -1,0 +1,4 @@
+
+Csquid:S1068"'Remove this unused "LOG" private field.(òÀóŠúÿÿÿÿ
+Jsquid:S1068"3Remove this unused "DEBUG_TEMPORARY" private field.(­ª•‹
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ì‚Ö

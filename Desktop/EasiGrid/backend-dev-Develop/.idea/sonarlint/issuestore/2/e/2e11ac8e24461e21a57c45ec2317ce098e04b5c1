@@ -1,0 +1,20 @@
+
+Gsquid:S19057"$Remove this unnecessary cast to "T".(‡Íô–ÿÿÿÿÿ8¸ãÿ’¬.
+hsquid:UselessImportCheck"8Remove this unused import 'org.company.domain.Consumer'.(ÙòğÆûÿÿÿÿ8‚±€“¬.
+Gsquid:S1905D"$Remove this unnecessary cast to "T".(‡Íô–ÿÿÿÿÿ8çå“¬.
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Œ²Îô8òÃÅ«.
+Osquid:S16028",Remove useless curly braces around statement(ı¥…Íúÿÿÿÿ8’ƒÿ’¬.
+hsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ø–°‰8òÃÅ«.
+Osquid:S1602E",Remove useless curly braces around statement(ı¥…Íúÿÿÿÿ8òÃÅ«.
+Psquid:S1602•",Remove useless curly braces around statement(ı¥…Íúÿÿÿÿ8ë†“¬.
+Psquid:S1602¸",Remove useless curly braces around statement(ı¥…Íúÿÿÿÿ8ë†“¬.
+Wsquid:UselessParenthesesCheckÍ"!Remove these useless parentheses.(Ü÷Ù…şÿÿÿÿ8ë†“¬.
+Wsquid:UselessParenthesesCheck×"!Remove these useless parentheses.(Ü÷Ù…şÿÿÿÿ8ë†“¬.
+nsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(ìø‡¦ıÿÿÿÿ8ë†“¬.
+nsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(Ü•èşÿÿÿÿ8ë†“¬.
+nsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(ŞÔÑ¥ùÿÿÿÿ8ë†“¬.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(É®â›ùÿÿÿÿ8ë†“¬.
+osquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(á”©ãÿÿÿÿÿ8ë†“¬.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ë†“¬.
+jsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(Åÿúé8ë†“¬.
+osquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(’æÉ·üÿÿÿÿ8ë†“¬.

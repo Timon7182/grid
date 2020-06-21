@@ -1,0 +1,5 @@
+
+psquid:UselessImportCheck"ERemove this unused import 'org.company.repository.CompanyRepository'.(•ÕØ8˜ÇŠ¬.
+[squid:UselessImportCheck	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Üß†¬.
+wsquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "p".(÷Ùê÷8ö‹¬.
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(³µØ—ùÿÿÿÿ8ûš¬.

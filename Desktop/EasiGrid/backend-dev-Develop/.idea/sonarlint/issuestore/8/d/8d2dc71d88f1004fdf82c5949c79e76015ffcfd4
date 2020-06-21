@@ -1,0 +1,19 @@
+
+„squid:S3252@"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(Ä…×¢úÿÿÿÿ8–×«Å«.
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(„Ãœûÿÿÿÿ8ïâëè«.
+nsquid:S3252>"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(§äÃ€ûÿÿÿÿ8–×«Å«.
+osquid:S3252?"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(ÌŸåøÿÿÿÿ8–×«Å«.
+vsquid:ModifiersOrderCheck'"EReorder the modifiers to comply with the Java Language Specification.(—¤Íüûÿÿÿÿ8–×«Å«.
+ksquid:S3252<"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(ŸÎŠéÿÿÿÿÿ8–×«Å«.
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(»ñ×úÿÿÿÿ8–×«Å«.
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(äÖ¦Ùÿÿÿÿÿ8Š‹¸î«.
+Vsquid:S1068"3Remove this unused "DEBUG_TEMPORARY" private field.(»ñ×úÿÿÿÿ8–×«Å«.
+]squid:S1118":Add a private constructor to hide the implicit public one.(‡Œïøşÿÿÿÿ8–×«Å«.
+fsquid:S3252="HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(õ‡ÉŸ8–×«Å«.
+jsquid:S00112'"FDefine and throw a dedicated exception instead of using a generic one.(—¤Íüûÿÿÿÿ8ŸëÜÅ«.
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.( î¿òùÿÿÿÿ8–×«Å«.
+jsquid:S3252;"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(èÊ°Æıÿÿÿÿ8–×«Å«.
+ssquid:S3252A"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(ÎŒÓşıÿÿÿÿ8–×«Å«.
+{squid:S3252B"]Use static access with "org.hibernate.cfg.AvailableSettings" for "ENABLE_LAZY_LOAD_NO_TRANS".(—æ¼ä8–×«Å«.
+msquid:S32527"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ŸÉÑ‚øÿÿÿÿ8–×«Å«.
+‚squid:S3252C"dUse static access with "org.hibernate.cfg.AvailableSettings" for "ALLOW_UPDATE_OUTSIDE_TRANSACTION".(ÜÃ¯ü8–×«Å«.

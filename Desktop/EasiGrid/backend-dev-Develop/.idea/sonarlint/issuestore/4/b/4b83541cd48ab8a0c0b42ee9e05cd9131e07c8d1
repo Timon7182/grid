@@ -1,0 +1,9 @@
+
+squid:S1488B"^Immediately return this expression instead of assigning it to the temporary variable "result".(Òûúøÿÿÿÿ8õ´“¬.
+hsquid:UselessImportCheck"=Remove this unused import 'org.hibernate.HibernateException'.(™òı²8µ×õğ«.
+dsquid:S1126$"AReplace this if-then-else statement by a single return statement.(³ù¢éşÿÿÿÿ8ÎêÚÒ«.
+hsquid:S2095="EUse try-with-resources or close this "Session" in a "finally" clause.(íÊ‹ƒúÿÿÿÿ8õ´“¬.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8³Ç…ñ«.
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªà£ÿÿÿÿÿ8¬ÇúÆ«.
+csquid:UselessImportCheck"3Remove this unused import 'org.hibernate.SQLQuery'.(±ô£½ùÿÿÿÿ8€¸Ñğ«.
+vsquid:ModifiersOrderCheck,"EReorder the modifiers to comply with the Java Language Specification.(ı—İ³øÿÿÿÿ8¬ÇúÆ«.

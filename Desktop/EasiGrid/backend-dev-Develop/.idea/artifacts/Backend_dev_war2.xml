@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Backend-dev:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Backend_dev_war2</output-path>
+    <root id="archive" name="Backend-dev_war.war">
+      <element id="artifact" artifact-name="Backend-dev:war exploded" />
+    </root>
+  </artifact>
+</component>
